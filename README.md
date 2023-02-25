@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FANTASMA E CIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JPCFCYI6HF7ZQRSVY7A5BSWKKPOTTIKK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1fCji01buq6HHLhreImjfWRtgH0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um homem descobre a existência de um fantasma em sua casa e resolve monetizar o fenômeno na internet e dar jantares no lugar para o público conhecer o fantasma, mas quando um dia seu parceiro e o fantasma desaparece, seus planos são atrapalhados.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] OS REIS DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f4dc5906d81ad42557bf728a16116165e3171bd</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/s4QmLssxhPS9BlUvUQFvyZnv91a.jpg</thumbnail>
