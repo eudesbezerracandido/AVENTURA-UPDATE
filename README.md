@@ -1,7 +1,12 @@
 # AVENTURA-UPDATE
 
-
-
+<item>
+<title>[COLOR silver][B] PERSEGUIÇÃO NAS ALTURAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b39bd43debb6d40a187ac02e87e2a022f9498fec</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yFjL4xFc6uxrfxBuZLei6L268SM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma aventura de escalada entre duas amigas se transforma em um pesadelo aterrorizante. Depois que Kelly testemunha um crime, ela é perseguida pelos responsáveis e sua única saída é fugir por uma perigosa montanha.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] INTERESTELAR  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
