@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] LUCIA E O CRISTAL MÁGICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L6OAMRRAJEITOTRV5O5RQTHTACMUPZX6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bv44fVFbCtfJV6hgat524vvByIN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Lucia é a primeira menina da Escola Internacional de Natal. Quando seu melhor amigo, Oscar, é acusado de roubar o cristal mágico do Rei Inverno, que alimenta a máquina atual, Lucia se propõe a provar a inocência dele.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O MENINO É O TIGRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c7b2b8f6facb55da508fc3e2afaa8fe2d4952a9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1MUFa3ZgAgjKvGtwO3qcMjKEGPF.jpg</thumbnail>
