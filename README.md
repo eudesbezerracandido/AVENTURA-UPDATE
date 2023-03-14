@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] OS TRAPACEIROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f232783317b56df1321ebb2a4edaeef785c877b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9eAHkYLOcKxebbmOxurCkvFabk3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um bêbado caloteiro e uma prostituta viciada juntam forças para consertar suas falhas pessoais enquanto tentam falsificar 98 dólares para comprarem passagens de ônibus e saírem da cidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LUCIA E O CRISTAL MÁGICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L6OAMRRAJEITOTRV5O5RQTHTACMUPZX6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bv44fVFbCtfJV6hgat524vvByIN.jpg</thumbnail>
