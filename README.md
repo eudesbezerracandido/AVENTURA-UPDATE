@@ -1,5 +1,15 @@
 # AVENTURA-UPDATE
 
+
+
+<item>
+<title>[COLOR silver][B] TEMPESTADE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e47517b1a2d4c92d744210abd0afca656f2fd698</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7sFsHSFqz9gvxyWjkQY4iJo0xQR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando seu avião cai em uma remota montanha coberta de neve, Jane e Paul têm que lutar por suas vidas como os únicos sobreviventes restantes. Juntos, eles embarcam em uma jornada angustiante para fora do deserto.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PERSEGUIÇÃO NAS ALTURAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b39bd43debb6d40a187ac02e87e2a022f9498fec</link>
