@@ -4,7 +4,7 @@
 
 <item>
 <title>[COLOR silver][B] EM RETIRADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd85c6a980e076ee7b3f9f504fc440213e6fe383</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qQfybAMGw5Cu6tkPY994yAzAovl.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um pai e um filho lutam para se conectar em qualquer nível, até que um encontro brutal com um animal predador no coração do deserto deixa ambos gravemente feridos. Se eles querem sobreviver, o menino deve carregar seu pai até algum lugar seguro.</info>
