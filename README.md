@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] EM RETIRADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qQfybAMGw5Cu6tkPY994yAzAovl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um pai e um filho lutam para se conectar em qualquer nível, até que um encontro brutal com um animal predador no coração do deserto deixa ambos gravemente feridos. Se eles querem sobreviver, o menino deve carregar seu pai até algum lugar seguro.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TEMPESTADE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e47517b1a2d4c92d744210abd0afca656f2fd698</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7sFsHSFqz9gvxyWjkQY4iJo0xQR.jpg</thumbnail>
