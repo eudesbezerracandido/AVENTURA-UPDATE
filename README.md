@@ -1,7 +1,13 @@
 # AVENTURA-UPDATE
 
 
-
+<item>
+<title>[COLOR silver][B] A MENINA INVISÍSIVEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce37d620b0c80820c2e96742a441d207a0844abf</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ki7rdw9z0RR131eNy67xvI2bl3Q.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sue, de 12 anos, é uma garota perfeitamente normal, como ela diz de si mesma. Ela adora quadrinhos e super-heróis. Nem mesmo em seus sonhos mais malucos ela teria pensado em possuir seus próprios superpoderes. Quando ela entra em contato com um líquido que sua mãe, uma cientista, desenvolveu em seu laboratório secreto, no entanto, Sue fica repentinamente invisível. Quando sua mãe é sequestrada, Sue, junto com seus amigos App e Tobi, deve usar seu dom para encontrar os sequestradores.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] OS TRÊS MOSQUETEIROS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
