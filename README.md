@@ -1,6 +1,15 @@
 # AVENTURA-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] BELLE E SEBASTIAN 3: AMIGOS PARA SEMPRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:984630096c108e9671d5b879716967c99f28157a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fWTtiXp8wVe47lGGdeROpbCtaUh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Apesar do desejo do pai de viver na cidade, Sebastian quer continuar nas montanhas ao lado de sua fiel escudeira Belle. Um dia, o menino de 12 anos é surpreendido por Joseph, antigo dono da cachorra, que está disposto a fazer qualquer coisa para tê-la de volta. Certo do que deve fazer, Sebastian usará todos os seus recursos para manter sua melhor amiga a salvo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A MENINA INVISÍSIVEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce37d620b0c80820c2e96742a441d207a0844abf</link>
