@@ -1,6 +1,13 @@
 # AVENTURA-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] Dr.CARRINHO E OS CAVALEIROS TEMPLARIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43d7bed0f9ffc8316d5f14b2fd8a3aaf9a33eed9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qWuCK5h5o7pQDILZgQYHSIc59TX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Três escoteiros, um veículo incrementado e uma antiga relíquia. Um historiador de arte com um belo carro se une a um trio de crianças para desvendar um mistério lendário.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] BELLE E SEBASTIAN 3: AMIGOS PARA SEMPRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
