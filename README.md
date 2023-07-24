@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] NA SELVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff0931194e36b7aa7e01a20a595dceaae6db37ca</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ztVMXVNCIYK0CgXOjEmJlWupn95.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Na busca por autoconhecimento e experiências autênticas, o mochileiro israelense Yossi Ghinsberg encontra um enigmático geólogo austríaco em La Paz, na Bolívia, e cativado por suas histórias fascinantes de tribos perdidas, aventuras desconhecidas e até mesmo ouro, decide segui-lo, Por volta de 1981. Sem demora e acompanhado pelos bons amigos, Kevin, um fotógrafo americano, e Marcus, um professor suíço, eles se juntam a uma expedição liderada por seu experiente líder de trilha, no meio da esmeralda e impenetrável floresta amazônica. No entanto, como a selva interminável e inóspita separa a equipe inexperiente, em pouco tempo, Yossi vai encontrar-se encalhado nas profundezas de um ambiente de pesadelo repleto de adversários formidáveis ​​e incansáveis. Como alguém pode escapar desse labirinto verde?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CRÕNICAS DA TRIBO FANTASMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6dc94a9a94ddd8dc4062e1927a4831ef6edf55cc</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sBzJdRyp03ZHwnbCJg7TrBi5HY4.jpg</thumbnail>
