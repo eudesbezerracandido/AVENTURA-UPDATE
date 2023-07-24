@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SOLOMON KANE - O CAÇADOR DE DEMÔNIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1177fcb135f53edd5b30e9c4ac9be5ae45fc6a70</link>
+<thumbnail>https://www.themoviedb.org/movie/32985-solomon-kane</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No século XVI vive o capitão Solomon Kane. Um líder brutal e eficiente no seu maior objetivo: matar todos os seus inimigos. Kane precisará enfrentar a ceifa do próprio diabo – enviado das profundezas do inferno para reivindicar sua alma já condenada. Ele agora deve renunciar à violência e dedicar-se inteiramente a uma vida de paz e pureza. Mas o seu novo comportamento é rapidamente posto à prova final. Quando ele precisa salvar uma garota das garras do temível Overlord.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] Dr.CARRINHO E OS CAVALEIROS TEMPLARIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43d7bed0f9ffc8316d5f14b2fd8a3aaf9a33eed9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qWuCK5h5o7pQDILZgQYHSIc59TX.jpg</thumbnail>
