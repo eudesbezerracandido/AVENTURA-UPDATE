@@ -1,6 +1,15 @@
 # AVENTURA-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] CRÕNICAS DA TRIBO FANTASMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6dc94a9a94ddd8dc4062e1927a4831ef6edf55cc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sBzJdRyp03ZHwnbCJg7TrBi5HY4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1979, um jovem soldado está trabalhando nas montanhas cobertas pela neve na China, quando uma explosão revela bizarros fósseis escondidos nas profundezas de uma caverna. A sua descoberta não só irá mudar sua vida para sempre, mas também a história da humanidade.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] Dr.CARRINHO E OS CAVALEIROS TEMPLARIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43d7bed0f9ffc8316d5f14b2fd8a3aaf9a33eed9</link>
