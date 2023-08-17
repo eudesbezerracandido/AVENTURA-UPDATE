@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] A FUGA DO PRISIONEIRO 614 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d8a8960ff36e4f45a376e671d7a14168f0a470b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/t9l2H6uOsGBUPT4rWmv98TM6fOn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A Fuga do Prisioneiro 614 Torrent – No filme acompanhamos Martin Starr e Jack McDorman dois delegados bem-intencionados, mas desastrados, que são demitidos pelo seu xerife arrogante (Ron Perlman). Com a esperança de recuperar seus distintivos, eles decidem ir atrás de um prisioneiro fugitivo apenas para perceber que ele é uma vítima inocente de um sistema judicial racista e se deparam com um dilema moral.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] NA SELVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff0931194e36b7aa7e01a20a595dceaae6db37ca</link>
