@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] A CIDADE DOURADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:228a60929ed1ef3c93bfa391563075449a656f44</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fbcuQoaHYcapCnAKgHy8r9rZq7E.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Assombrado pela morte do pai, um homem se junta a sua ex-namorada para procurar por um artista vivendo em uma ocupação rebelde no meio da floresta amazônica do Peru, onde espíritos demoníacos protegem a lendária cidade de El Dorado.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A FUGA DO PRISIONEIRO 614 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d8a8960ff36e4f45a376e671d7a14168f0a470b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/t9l2H6uOsGBUPT4rWmv98TM6fOn.jpg</thumbnail>
