@@ -1,7 +1,13 @@
 # AVENTURA-UPDATE
 
 
-
+<item>
+<title>[COLOR silver][B] JOHN E O POTRINHO MÁGICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bbb071de5d8f05fdfbd99c9cf425b5a9b4a04a67</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/t66a8QPn7V8NzxoDEA7IANc4ixI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>John e seu amigo vivem uma série de aventuras imprevisíveis em mundos mágicos. Os dois amigos terão que ser mais espertos que um rei tirano, capturar o pássaro de fogo e encontrar o verdadeiro amor de John.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A CIDADE DOURADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
