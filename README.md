@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] TEMPESTADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e47517b1a2d4c92d744210abd0afca656f2fd698</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7jNI1iZ86tj1sCLciM2pbUo3hDV.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Jane sofre um acidente de avião e, junto com mais um único sobrevivente, lutarão por suas vidas. Eles embarcarão numa jornada implacável enfrentando condições brutais e seus traumas pessoais.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] 12 HORAS PARA O FIM DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
